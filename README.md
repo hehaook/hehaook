@@ -307,11 +307,11 @@ Java/成都/稳定
 
 1. 有扎实的java基础知识，熟练掌握了Servlet/Jsp技术，并能恰当运用主流的设计模式。
 2. 熟练掌握springMVC(拦截器、jsr303验证、异常处理、以及文件上传[poi]等)，并熟悉其工作流程。
-3. 	熟练掌握Hibernate和Mybatis框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[redis/memcache以及ehcache的配置]）。
+3. 	熟练掌握Hibernate框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[redis/memcache以及ehcache的配置]）。
 4. 	熟练掌握Spring框架，包括IOC、AOP编程、声明式事务处理及各框架的整合等技术。
 5. 	熟练掌握Mybatis、Hibernate、SpringMVC、SpringDataJPA等开源框架。
 6. 	熟悉Oracle、MySQL、SqlServer等关系型数据库和优化和Nosql等非关系型数据库(MogoDB)，写存储过程和触发器等。 
-7. 	熟练掌握javaScript、ajax、axios、jQuery等前端技术,熟练掌握使用BootStrap、CloudZoom、Layer、kkpager、zTree、ECharts、Ueditor/kindeditor、WebUpload、Freemarker/Thymeleaf、amazeui、easyUI。
+7. 	熟练掌握JavaScript、Ajax、Axios、JQuery等前端技术,熟练掌握使用BootStrap、CloudZoom、Layer、kkpager、zTree、ECharts、Ueditor/kindeditor、WebUpload、Freemarker/Thymeleaf、amazeui、easyUI。
 8. 	熟练掌握HTML5、CSS3，并对ReactJS、AgularJS、VueJS、微信小程序有一定的了解。
 9. 	熟练掌握Shiro权限配置，熟练RBAC。熟悉高并发多线程，读过一些源码，理解JVM内存分布，以及垃圾回收,使用sha-256进行前后端数据传输加密。
 10. 熟练掌握Webservice，Jsoup并能够从其他网站抓取信息。使用Lombok提高编码优雅度。
@@ -340,4 +340,3 @@ Java/成都/稳定
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-
