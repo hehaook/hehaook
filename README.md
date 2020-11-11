@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-    
-    
 # 联系方式
 
 - 手机/微信号：15881116047
@@ -26,7 +23,7 @@ Here are some ideas to get you started:
 # 个人信息
 
  - 何浩/男/1995 
- - 本科/电子科技大学通信工程
+ - 本科·非全日制/电子科技大学.通信工程
  - 工作年限：5年
  - 技术博客：https://www.cnblogs.com/JavaHh/
  - Github：https://github.com/hehaook
@@ -305,34 +302,42 @@ Java/成都/稳定
 5. 编写前端静态页面和前端Banner滚动效果和首页效果，完成用户登录/注册模块和物流信息填写CRUD模块等功能
 项目链接：http://www.loji.com/
 
+# 技能清单
+以下均为我熟练使用的技能
+
+1. 有扎实的java基础知识，熟练掌握了Servlet/Jsp技术，并能恰当运用主流的设计模式。
+2. 熟练掌握springMVC(拦截器、jsr303验证、异常处理、以及文件上传[poi]等)，并熟悉其工作流程。
+3. 	熟练掌握Hibernate和Mybatis框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[redis/memcache以及ehcache的配置]）。
+4. 	熟练掌握Spring框架，包括IOC、AOP编程、声明式事务处理及各框架的整合等技术。
+5. 	熟练掌握Mybatis、Hibernate、SpringMVC、SpringDataJPA等开源框架。
+6. 	熟悉Oracle、MySQL、SqlServer等关系型数据库和优化和Nosql等非关系型数据库(MogoDB)，写存储过程和触发器等。 
+7. 	熟练掌握javaScript、ajax、axios、jQuery等前端技术,熟练掌握使用BootStrap、CloudZoom、Layer、kkpager、zTree、ECharts、Ueditor/kindeditor、WebUpload、Freemarker/Thymeleaf、amazeui、easyUI。
+8. 	熟练掌握HTML5、CSS3，并对ReactJS、AgularJS、VueJS、微信小程序有一定的了解。
+9. 	熟练掌握Shiro权限配置，熟练RBAC。熟悉高并发多线程，读过一些源码，理解JVM内存分布，以及垃圾回收,使用sha-256进行前后端数据传输加密。
+10. 熟练掌握Webservice，Jsoup并能够从其他网站抓取信息。使用Lombok提高编码优雅度。
+11. 熟练掌握高德地图JS API、友盟+网站统计、阿里大于/腾讯云短信接口、七牛云存储。
+12. 熟练掌握Tomcat/Jetty等部署、Maven配置、Java开发工具（Intellij IDEA/Eclipse/Uap）及项目管理工具（svn/git）Sourcetree的使用，了解Linux常用命令的使用，有Linux环境下部署和安全配置的能力。
+13. 熟练撰写网站备案、需求规格设计说明书、系统集成测试报告等文档，并通过CMMI3认证
+14. 熟练掌握并使用SpringBoot。了解SpringBoot提供了对Spring开箱即用的功能（简化了Spring配置提供自动配置 auto-configuration功能），Spring Cloud微服务简单搭建和了解区块链。
+15. 熟悉配置Https、Nginx动静分离和集群、nodeJS，了解ESB和SOA架构。
+16. 熟悉配置cas、solr、activityMQ, 了解Jfinal、Jspxcms、Jpress、帆软、Kettle等开源项目，并用Jspxcms改造过项目。
+17. 使用Swagger、Rap、Eolinke、禅道等对项目管理、使用蓝湖、墨刀、阿里巴巴矢量图标库。
+18. 自主学习python，爬取天某查等数据，破解反爬字体。自己搭建简单的andriod Demo学习 
+
+# 获得奖项      
+
+1. 普通话二级乙等
+2. 成都图书馆最美读者奖
+3. 电子科技大学奖学金一等奖
+4. 电子科技大学网页设计大赛三等奖
+
 # 社交主页
 
 1. https://github.com/hehaook
 2. https://www.cnblogs.com/JavaHh/
 3. https://gitee.com/hh1362963116/events
 
-# 技能清单
-以下均为我熟练使用的技能
-
-1. 有扎实的java基础知识，熟练掌握了Servlet/Jsp技术，并能恰当运用主流的设计模式。
-2. 熟练掌握springMVC(拦截器、jsr303验证、异常处理、以及文件上传[poi]等)，并熟悉其工作流程。
-3. 	熟练掌握Hibernate框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[redis/memcache以及ehcache的配置]）。
-4. 	熟练掌握Spring框架，包括IOC、AOP编程、声明式事务处理及各框架的整合等技术。
-5. 	熟练掌握Mybatis、Hibernate、SpringMVC、SpringDataJPA等开源框架。
-6. 	熟悉Oracle、MySQL、sqlServer等关系型数据库和优化和Nosql等非关系型数据库(mogodb)，能写存储过程和触发器。 
-7. 	熟练掌握javaScript、ajax、axios、jQuery等前端技术,熟练掌握使用BootStrap、cloudZoom、layer、kkpager、zTree、ECharts、ueditor/kindeditor、webUpload、freemarker/thymeleaf、amazeui、easyui。
-8. 	熟练掌握HTML5、CSS3，并对ReactJS、AgularJS、VueJS、微信小程序有一定的了解。
-9. 	熟练掌握Shiro权限配置，熟练RBAC。熟悉高并发多线程，读过一些源码，理解JVM内存分布，以及垃圾回收,使用base64进行前后端数据传输加密。
-10. 熟练掌握Webservice，Jsoup并能够从其他网站抓取信息。使用Lombok提高编码优雅度。
-11. 熟练掌握高德地图JS API、友盟+网站统计、阿里大于/腾讯云短信接口、七牛云存储。
-12. 熟练掌握Tomcat/Jetty等部署、Maven配置、Java开发工具（Intellij IDEA/Eclipse）及项目管理工具（svn/git）sourcetree的使用，了解Linux常用命令的使用，有Linux环境下部署和安全配置的能力。
-13. 熟练撰写网站备案、需求规格设计说明书、系统集成测试报告等文档，并通过CMMI3认证
-14. 熟练掌握并使用SpringBoot。了解SpringBoot提供了对Spring开箱即用的功能（简化了Spring配置提供自动配置 auto-configuration功能），Spring Cloud微服务简单搭建和了解区块链。
-15. 熟悉配置Https、Nginx动静分离和集群、nodeJS，了解ESB和SOA架构。
-16. 熟悉配置cas、solr、activityMQ, 了解Jfinal、Jspxcms、Jpress、帆软等开源项目，并用Jspxcms改造过项目。
-17. 使用Swagger、Rap、Eolinke、禅道等对项目管理、使用蓝湖、墨刀、阿里巴巴矢量图标库。
-18. 自主学习python，爬取天某查等数据，破解反爬字体。自己搭建简单的andriod Demo学习 
-      
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
+
