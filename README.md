@@ -137,7 +137,7 @@ Java/成都/稳定
 ### 业绩：
 1. 开发各类交易和披露信息
 2. 维护日常交易、现货交易、信息披露
-3. 使用架构SSH+Gradle+Weblogic+Vue，通过UAP工具开发
+3. 使用架构SSH+Oracle+Gradle+Weblogic+Vue，通过UAP工具开发
 
 ### 项目链接：
 https://pmos.sc.sgcc.com.cn/pmos/index/login.jsp?y7bRbP=Tax_qAkiu74iu74iu2r1ZDRNjhbappJ.ESrtB_oGZVIi
@@ -157,7 +157,7 @@ https://pmos.sc.sgcc.com.cn/pmos/index/login.jsp?y7bRbP=Tax_qAkiu74iu74iu2r1ZDRN
 厂商之间的数据交互
 ### 业绩：
 1. 处理大量数据，确保数据的准确和实时性
-2. 使用架构SSM+Weblogic+Webservice+Vue+kettle
+2. 使用架构SSM+Oracle+Weblogic+Webservice+Vue+Kettle/Ogg抽数
 
 ### 数据跑批系统（2019.07-2019.11 ）
 ### 职务：
