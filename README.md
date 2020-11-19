@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **hehaook/hehaook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,7 +27,7 @@ Here are some ideas to get you started:
  - Github：https://github.com/hehaook
 
  - 期望职位：Java高级程序员，应用架构师
- - 期望薪资：税前月薪15k~18k，特别喜欢的公司可例外
+ - 期望薪资：税前月薪15k~18k
  - 期望城市：成都
 
 # 个人优势
