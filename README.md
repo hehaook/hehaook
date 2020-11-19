@@ -25,6 +25,7 @@ Here are some ideas to get you started:
  - 工作年限：5年
  - 技术博客：https://www.cnblogs.com/JavaHh/
  - Github：https://github.com/hehaook
+ - Gitee：https://gitee.com/hh1362963116/
 
  - 期望职位：Java高级程序员，应用架构师
  - 期望薪资：税前月薪15k~18k
@@ -51,7 +52,7 @@ Java/成都/稳定
 1. 维护好客户关系，与各厂商开发和睦相处
 2. 负责接口，为各项目数据做好了有力的支撑
 3. 重构的代码轻量简洁，将复杂的业务逻辑解耦
-4. 负责信息披露，确保数据的准确和实时性，受到专责的一致好评
+4. 负责信息披露，确保披露数据的准确和实时性，受到专责的一致好评
 5. 负责大屏数据可视化，受到国网董事长、主任等领导、省长、省市领导的好评
 6. 负责交易开发，严谨的编码风格和优秀的开发能力，支撑日常交易的有序进行
 7. 分配项目任务，对项目进行代码管理和需求管理，并且日常进行代码质量检查
@@ -366,13 +367,13 @@ http://www.loji.com/
 
 1. 有扎实的java基础知识，熟练掌握了Servlet/Jsp技术，并能恰当运用主流的设计模式。
 2. 熟练掌握springMVC(拦截器、jsr303验证、异常处理、以及文件上传[poi]等)，并熟悉其工作流程。
-3. 	熟练掌握Hibernate框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[redis/memcache以及ehcache的配置]）。
-4. 	熟练掌握Spring框架，包括IOC、AOP编程、声明式事务处理及各框架的整合等技术。
-5. 	熟练掌握Mybatis、Hibernate、SpringMVC、SpringDataJPA等开源框架。
-6. 	熟悉Oracle、MySQL、SqlServer等关系型数据库和优化和Nosql等非关系型数据库(MogoDB)，写存储过程和触发器等。 
-7. 	熟练掌握JavaScript、Ajax、Axios、JQuery等前端技术,熟练掌握使用BootStrap、CloudZoom、Layer、kkpager、zTree、ECharts、Ueditor/kindeditor、WebUpload、Freemarker/Thymeleaf、amazeui、easyUI。
-8. 	熟练掌握HTML5、CSS3，并对ReactJS、AgularJS、VueJS、微信小程序有一定的了解。
-9. 	熟练掌握Shiro权限配置，熟练RBAC。熟悉高并发多线程，读过一些源码，理解JVM内存分布，以及垃圾回收,使用sha-256进行前后端数据传输加密。
+3. 熟练掌握Hibernate框架，包括一对多和多对多的对象关系映射以及延迟加载、HQL等技术,数据缓存（一级缓存、二级缓存、分布式缓存[Redis/Memcache以及Ehcache的配置]）。
+4. 熟练掌握Spring框架，包括IOC、AOP编程、声明式事务处理及各框架的整合等技术。
+5. 熟练掌握Mybatis、Hibernate、SpringMVC、SpringDataJPA等开源框架。
+6. 熟悉Oracle、MySQL、SqlServer等关系型数据库和优化和Nosql等非关系型数据库(MogoDB)，写存储过程和触发器等。 
+7. 熟练掌握JavaScript、Ajax、Axios、JQuery等前端技术,熟练掌握使用BootStrap、CloudZoom、Layer、kkpager、zTree、ECharts、Ueditor/kindeditor、WebUpload、Freemarker/Thymeleaf、Amazeui、EasyUI。
+8. 熟练掌握HTML5、CSS3，并对ReactJS、AgularJS、VueJS、微信小程序有一定的了解。
+9. 熟练掌握Shiro权限配置，熟练RBAC。熟悉高并发多线程，读过一些源码，理解JVM内存分布，以及垃圾回收，使用sha-256进行前后端数据传输加密。
 10. 熟练掌握Webservice，Jsoup并能够从其他网站抓取信息。使用Lombok提高编码优雅度。
 11. 熟练掌握高德地图JS API、友盟+网站统计、阿里大于/腾讯云短信接口、七牛云存储。
 12. 熟练掌握Tomcat/Jetty等部署、Maven配置、Java开发工具（Intellij IDEA/Eclipse/Uap）及项目管理工具（svn/git）Sourcetree的使用，了解Linux常用命令的使用，有Linux环境下部署和安全配置的能力。
@@ -389,12 +390,6 @@ http://www.loji.com/
 2. 成都图书馆最美读者奖
 3. 电子科技大学奖学金一等奖
 4. 电子科技大学网页设计大赛三等奖
-
-# 社交主页
-
-1. https://github.com/hehaook
-2. https://www.cnblogs.com/JavaHh/
-3. https://gitee.com/hh1362963116/events
 
 ---      
 # 致谢
