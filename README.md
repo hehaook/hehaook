@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 联系方式
 
-- 手机/微信号：15881116047
+- 手机/微信号：1588***6047
 - Email：hehaogod@foxmail.com
 
 # 个人信息
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  - Gitee：https://gitee.com/hh1362963116/
 
  - 期望职位：Java高级程序员，应用架构师
- - 期望薪资：税前月薪15k~18k
+ - 期望薪资：税前月薪18k~50k
  - 期望城市：成都
 
 # 个人优势
